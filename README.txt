@@ -19,9 +19,9 @@ Folder Hierarchy:
       > Code
 
 How to run the code:
-1) Please find the Proj1_Part2.ipynb file inside the Code folder. The Code folder can be found inside the submitted Project folder.
-2) Note that in order to run the code you need to place the data file associationruletestdata.txt, inside the same folder in which the Proj1_Part2.ipynb is placed. 
-3) Open the Proj1_Part2.ipynb file in the Jupyter Notebook.
+1) Please find the Code.ipynb file inside the submitted Project folder.
+2) Note that in order to run the code you need to place the data file associationruletestdata.txt, inside the same folder in which the Code.ipynb is placed. 
+3) Open the Code.ipynb file in the Jupyter Notebook.
 4) Run all the cells to see the outputs.
 5) Command line inputs-
    >Enter the gene-expression data file name, when prompted.
